@@ -1,0 +1,41 @@
+.encabezado img 
+width:140px; 
+
+.encabezado{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2 {
+    color:whitesmoke;
+    text-align: left;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+h1 {
+    font-size: 50px; 
+}
+
+
+p { #
+    color:blue
+}
+
+
+body{
+    background-color:rgb(171, 227, 209)
+}
+
+#principio, #otroId{
+    color: blue;
+}
+    
+.parrafo{
+   font-size: 14px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    display:flex
+
+}
